@@ -8,7 +8,7 @@
 *Preencher*
 
 ## Como usar
-*Preencer*
+*Preencher*
 ```
 $ exempmlo de comando
  ```
